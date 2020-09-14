@@ -1,0 +1,3 @@
+<strong> Title: </strong> Coding a blog using just a txt file! 
+<br><strong>Content:</strong> Using php & text files you can actually create a simple blog 
+<hr>
