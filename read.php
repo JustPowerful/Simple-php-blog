@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title> Simple blog </title>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
 

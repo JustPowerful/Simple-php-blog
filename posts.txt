@@ -1,3 +1,5 @@
-<strong> Title: </strong> Coding a blog using just a txt file! 
-<br><strong>Content:</strong> Using php & text files you can actually create a simple blog 
-<hr>
+<div class='blog'><strong> Title: </strong> Coding with friends 
+<br><strong>Content:</strong> Coding a new blog 
+</div></br><div class='blog'><strong> Title: </strong> CcCdazfzefzefze 
+<br><strong>Content:</strong> dazgergergedazgergergedazgergergedazgergergedazgergergedazgergergedazgergergedazgergerge 
+</div></br>

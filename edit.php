@@ -37,8 +37,10 @@
         $postfile = "posts.txt";
 
         $opfile = fopen($postfile, "a");
+        fwrite($opfile, "<div class='blog'>");
         fwrite($opfile, "<strong> Title: </strong> $title \n<br><strong>Content:</strong> $content \n");
-        fwrite($opfile, "<hr>\n");
+        fwrite($opfile, "</div>");
+        fwrite($opfile, "</br>");
         fclose($opfile);
 
         header("Location: /www/read.php");
